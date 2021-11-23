@@ -2,6 +2,8 @@
 
 This is the project I prepared for the Biometric Systems exam, it's an implementation of a paper called "EEG-based user identification system using 1D-convolutional long short-term memory neural networks".
 
+https://www.sciencedirect.com/science/article/pii/S095741741930096X
+
 THIS IS NOT MY RESEARCH, I programmed everything starting from their repository: https://github.com/ys4315/EEG-user-identification
 It has matlab and python (tensorflow 1.1) components, so I ported all the code to an updated python version and using tensorflow 2.6.
 
